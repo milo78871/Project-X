@@ -1,0 +1,14 @@
+.navigation-container {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 12px;
+    padding-left: 12px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+.navigation-container>nav>button {
+    height: 32px;
+    border: 1px black;
+    background-color: white;
+}
